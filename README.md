@@ -17,7 +17,8 @@ Sebuah portofolio interaktif dan modern yang dirancang khusus untuk memamerkan k
 ## Screenshot Halaman Web
 Berikut adalah tampilan halaman depan (Front Page) portofolio setelah dilakukan makeover total:
 
-![Portfolio Preview](public/assets/screenshot.png)
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/689d7e5d-e2c5-4cfb-925b-ba3a6bfbc30d" />
+
 
 ---
 
